@@ -1,8 +1,8 @@
 # My First Code Repo 💻
 
-Basic Python programs by Sandhiya Baskar — with a twist of fun 💅✨
+Fun and beginner-friendly Python programs by **Sandhiya Baskar** — now organized like a pro 😎📁
 
-## 📜 Programs List
+## 📂 Folder: `/python`
 
 - `program1.py`: Hello from Sandhiya
 - `program2.py`: Mood Generator 😄
@@ -18,13 +18,18 @@ Basic Python programs by Sandhiya Baskar — with a twist of fun 💅✨
 ## ▶️ How to Run
 
 ```bash
+cd python
 python programX.py
 
 ---
 
-### ✅ STEP 2: Run These 3 Commands in Terminal:
+### ✅ Final Step – Push Your README
+
+In terminal:
 
 ```bash
 git add README.md
-git commit -m "Updated README with all 10 fun programs"
+git commit -m "Updated README to reflect folder structure"
 git push
+
+
